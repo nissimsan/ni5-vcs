@@ -1,0 +1,8 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://transmute-industries.github.io/verifiable-credential-profile-template/contexts/credentials/v1"
+  ],
+  "id": "did:web:transmute-industries.github.io:verifiable-credential-profile-template:issuers:example",
+  "hasGS1DigitalLink": "https://id.gs1.org/gln/1200144791171"
+}
